@@ -1,2 +1,2 @@
-# ProyectoFinalBD
-Proyecto Final Base de Datos II
+# ProyectoFinalBD - Grupo 3
+
